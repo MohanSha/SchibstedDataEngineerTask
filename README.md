@@ -1,6 +1,8 @@
 # Schibsted Data Engineer Data Processing Assignment
 
-On running the script a new file will be generated in data directory with name urls-output.json
+On running the script a new file will be generated in data directory with name [urls-output.json](data/urls-output.json)
+
+Databrick Notebook: [Click Here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/4464596420022593/1911053387610219/103040325764354/latest.html)
 
 ## Introduction
 As a data engineer at Schibsted you will be tasked with writing data processing pipelines transforming all sorts of data. One of the common data points are URLs. In this assignment you will be wrting the logic to parse the raw URLs and extract the key data points from them. This assignment is based on an actual job implemented in the Common Data Warehouse.
